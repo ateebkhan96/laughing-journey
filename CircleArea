@@ -1,0 +1,6 @@
+print("Circle Area Calculator")
+R = float(input("Please enter the radius of circle\n"))
+A = 22/7 * R * R
+print("Area of Circle is")
+print(A)
+
